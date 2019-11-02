@@ -1,6 +1,6 @@
 # Unit 1 - Operators, data types, `printf`/`scanf`
 
-## Program 1
+## Program 1 - Resistors
 Write a program to calculate the equivalent resistor of two resistors connected in series and in parallel. Given the resistors R1 and R2, the equivalent resistors are calculated as:
 
 - Series: `Req_Series = R1 + R2`
@@ -40,7 +40,7 @@ Display 2 decimal places of the calculated resistors (using `%.2f`).
 
 **[Solution](1_1_Resistor.c)**
 
-## Program 2
+## Program 2 - Net Salary
 Write a program to compute the monthly net salary of an employee. 
 The gross salary is calculated given the number of work hours and a euro per hour. 
 The income tax is 15% of the gross salary.
@@ -53,7 +53,7 @@ Calculate the gross salary, taxes and the net salary.
 
 **[Solution](1_2_netSalary.c)**
 
-## Program 3
+## Program 3 - Trapezium area
 The formula to calculate the area of a trapezium is:
 
 `Trapezium area = [(B + b). a] / 2`
@@ -68,7 +68,7 @@ Write the program in the computer, then compile and execute. Run the program ste
 
 **[Solution](1_3_Trapezium.c)**
 
-## Program 4
+## Program 4 - Basic exercise with if statement
 Write a program to calculate the following piecewise defined function:
 f(x){
     x2 for x <= 3
